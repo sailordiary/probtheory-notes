@@ -1,4 +1,4 @@
-# probtheory-notes
-Notes on probability theory 《概率论札记》
+# Notes on probability theory, a book in progress
+# 概率论札记
 
-Created based on lectures by Prof. Fuzhou Gong（巩馥州） at UCAS.
+This book is created based Prof. Fuzhou Gong（巩馥州）'s lectures for undergraduates of mathematics major at UCAS. It has not been revised and there may be errors.
